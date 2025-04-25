@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ashwanth213
+- 👋 Hi, I’m @Ashwanth K
 - 👀 I’m interested in ... IT industry
 - 🌱 I’m currently learning ... Datascience in Ai
 - 💞️ I’m looking to collaborate on ...
